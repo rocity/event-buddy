@@ -26,6 +26,10 @@ Good usability.
 Appropriate aesthetics for the demographic, tone, mobile/touch paradigms, etc.
 Insight into your process, including any sketches, brainstorms, notes, wireframes, and assumptions on the product.
 
+# Mockups
+
+[MOCKUPS](./MOCKUPS.md)
+
 # Installation
 
 ## Django
